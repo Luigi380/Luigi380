@@ -67,8 +67,8 @@ Me chamo Luigi de Souza, tenho 17 anos e sou natural da Itália. Estou cursando 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi380&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
+      height="145" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi380&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
