@@ -12,7 +12,7 @@ Me chamo Luigi de Souza, tenho 17 anos e sou natural da Itália. Estou cursando 
             src="https://custom-icon-badges.demolab.com/github/stars/Luigi380?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Luigi380?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
