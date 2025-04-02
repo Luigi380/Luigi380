@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luigi de Souza
+# 👨🏼‍💻 Luigi de Souza
 
 **`Desenvolvedora FullStack`**
 
