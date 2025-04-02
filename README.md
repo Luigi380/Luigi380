@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Luigi de Souza, tenho 17 anos e sou natural da Itália. Estou cursando o Ensino Médio e fazendo um curso na modalidade de concomitante de TI no IFES. Sou apaixonado por tecnologia.
+Me chamo Luigi de Souza, tenho 17 anos e sou natural da Itália. Estou cursando o Ensino Médio e fazendo um curso na modalidade concomitante de TI no IFES. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/Luigi380?tab=repositories&sort=stargazers">
