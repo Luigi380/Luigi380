@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
- [![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/luigi-de-souza-a847ab327/)
-</div> 
+[![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/luigi-de-souza-a847ab327/)
 
 ###
 
