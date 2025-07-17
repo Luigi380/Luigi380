@@ -10,7 +10,9 @@
 
 ###
 
-<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+<div align="center">
+  <h2 align="left">🤖 Linguagens e Tecnologias</h2>
+<div/>
 
 ###
 
