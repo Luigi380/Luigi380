@@ -6,8 +6,10 @@
 
 ###
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gubonjardim/)
+
 <div align="center">
-  <a href="www.linkedin.com/in/luigi-de-souza-a847ab327" target="_blank">
+  <a href="(https://www.linkedin.com/in/luigi-de-souza/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="luigi.de.sou@gmail.com" target="_blank">
